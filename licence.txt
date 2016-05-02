@@ -1,1 +1,2 @@
 this is a licence file. use whatever you want to.
+MIT
